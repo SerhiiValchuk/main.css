@@ -1,0 +1,62 @@
+.sss {
+    background: whitesmoke;
+    width: 400px;
+    height: 300px;
+}
+.qqq {
+    background: #b0d22c;
+    width: 400px;
+    height: 25%;
+    text-align: center;
+}
+.eee {
+    background: white;
+    width: 404px;
+    height: 50%;
+}
+.www1 {
+    background: #bfdc6a;
+    width: 25%;
+    height: 155px;
+    text-align: center;
+}
+.www2 {
+    background: white;
+    width: 75%;
+    height: 100%;
+}
+.www3 {
+    width: 100%;
+    height: 48%;
+    text-align: center;
+    margin-bottom: 2%;
+}.www4 {
+    width: 100%;
+    height: 50%;
+    text-align: center;
+}
+ .qqq2 {
+     background: #515f12;
+     width: 400px;
+     height: 25%;
+     text-align: center;
+     margin-top: 12px;
+ }
+
+.bord {
+    border: 1px double black;
+}
+.mar-topbom {
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+.mar-lefrig {
+    margin-left: 4px;
+    margin-right: 3px;
+}
+.disp {
+    display: flex;
+}
+.back {
+    background: #5ce9ff;
+}

@@ -1,0 +1,94 @@
+.w50 {
+    width: 600px;
+    height: 41px;
+    background: darkolivegreen;
+}
+.w10 {
+    width: 30px;
+    height: 15px;
+    background: #13ecdf;
+    border-radius: 5px;
+    margin-top:13px;
+    margin-left: 25px;
+}
+.w51{
+    width: 600px;
+    height: 41px;
+    background: rebeccapurple;
+}
+.w11{
+    width: 30px;
+    height: 15px;
+    background: #3ed208;
+    border-radius: 5px;
+    margin-top:13px;
+    }
+.w200 {
+    width: 100px;
+}
+.h200 {
+    height: 100px;
+}
+.purple {
+    background: blueviolet;
+}
+.radius10 {
+    border-radius: 10px;
+}
+.radius-round {
+    border-radius: 50%;
+}
+.www1 {
+    width: 600px;
+    height: 200px;
+    background: rebeccapurple;
+    align-items: flex-end;
+}
+.www2 {
+    width: 600px;
+    height: 500px;
+    background: rgba(92, 99, 92, 0.42);
+    align-items: flex-end;
+}
+.rad2 {
+    border-radius: 5px;
+}
+.disp {
+    display: flex;
+}
+.just {
+    justify-content: space-between;
+}
+.marg {
+    margin-right: 45px;
+    margin-left: 45px;
+}
+.marg2 {
+    margin-top: 90px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.marg3 {
+    margin-top: 5px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.marg4 {
+    margin-left: 70px;
+}
+.marg5 {
+    margin-left: 140px;
+}
+.marg6 {
+    margin-right: 140px;
+}
+.rel {
+    position: relative;
+}
+.top {
+    top: 50px;
+}
+.fff {
+    width: 600px;
+    height: 200px;
+}

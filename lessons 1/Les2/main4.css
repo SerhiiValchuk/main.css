@@ -1,0 +1,38 @@
+.sss {
+    background: whitesmoke;
+    width: 600px;
+    height: 700px;
+    padding: 5px;
+}
+.qqq {
+    background: blue;
+    height: 15%;
+}
+.qqq2 {
+    background: blue;
+    height: 50%;
+}
+.sss2 {
+    background: whitesmoke;
+    width: 600px;
+    height: 35%;
+    display: flex;
+    justify-content: space-between;
+}
+.www1 {
+    background: rebeccapurple;
+    width: 33%;
+    height: 100%;
+}
+.rad {
+    border-radius: 5px;
+}
+.widh {
+    width:100%;
+}
+.marg {
+    margin-top: 4px;
+}
+.text {
+    text-align: center;
+}
