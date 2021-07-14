@@ -65,16 +65,19 @@
     console.log(person);
     /*За допомогою 3х різних prompt() отримати 3 слова які являються вашими Імям, По-Батькові та роками.
     Вивести "Вітаю *Імя* *По батькові*. Тобі *вік* років".*/
-    let name = 'Serhii'
-    let lastName2 = 'Oleksandrowych'
-    let age = '28'
-    let user = prompt('enter your password');
-    if (user <= 10) {
-        document.write(
-            `Вітаю ${name} ${lastName2}. Тобі ${age} років`);
-    } else {
-        console.log('wrong password');
-    }
+    let name = 'Serhii';
+    let lastName2 = 'Oleksandrowych';
+    let age = '28';
+    let user = prompt('enter your name');
+    if (user == name);
+        alert('next');
+    let user2 = prompt('enter your lastName');
+    if (user2 == lastName2);
+        alert('next');
+    let user_age = prompt('enter your age');
+    if (user_age == age);
+       alert('Вітаю'+ ' ' + name +' '+ lastName2 +'. ' + 'Toбі'+ ' '+ age );
+
     /*За допомогою оператора typeof визначити типи наступних змінних та вивести їх в консоль.
     let a = 100; let b = '100'; let c = true;*/
     let a = 100; /*number*/
@@ -97,16 +100,6 @@
     123 ? '123' -> false -> (===)
     123 ? '123' -> true -> (==)
      */
-
-
-
-
-
-
-
-
 </script>
-
-
 </body>
 </html>
