@@ -66,14 +66,38 @@
     let name = 'Serhii'
     let lastName2 = 'Oleksandrowych'
     let age = '28'
-    document.write(
-        `Вітаю ${name} ${lastName2}. Тобі ${age} років`
-    );
+    let user = prompt('enter your password');
+    if (user <= 10) {
+        document.write(
+            `Вітаю ${name} ${lastName2}. Тобі ${age} років`);
+    } else {
+        console.log('wrong password');
+    }
     /*За допомогою оператора typeof визначити типи наступних змінних та вивести їх в консоль.
     let a = 100; let b = '100'; let c = true;*/
-    let a = 100;
-    let b = '100';
-    let c = true;
+    let a = 100; /*number*/
+    console.log(typeof a);
+    let b = '100';/*string*/
+    console.log(typeof b);
+    let c = true;/*boolean*/
+    console.log(typeof c);
+    /*Поставет відповідний оператор в виразах що б вийшов відповідний результат.
+В однакових виразаї не використовувати однакові оператори!!!
+    5 ? 6 -> true -> (<)
+    5 ? 6 -> false -> (>)
+    5 ? 6 -> false -> (>=)
+    5 ? 6 -> false -> (===)
+    10 ? 10 -> true -> (===)
+    10 ? 10 -> true -> (==)
+    10 ? 10 -> false -> (<)
+    10 ? 10 -> false -> (>)
+    10 ? 10 -> false -> (!=)
+    123 ? '123' -> false -> (===)
+    123 ? '123' -> true -> (==)
+     */
+
+
+
 
 
 
