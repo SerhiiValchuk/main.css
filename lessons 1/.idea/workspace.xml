@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed296248-580d-4dec-8d68-729bf75083d4" name="Default Changelist" comment="new committwo" />
+    <list default="true" id="ed296248-580d-4dec-8d68-729bf75083d4" name="Default Changelist" comment="new committhree">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/JS.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/JS.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626247328564</updated>
-      <workItem from="1626247333149" duration="588000" />
+      <workItem from="1626247333149" duration="2037000" />
     </task>
     <task id="LOCAL-00003" summary="new committwo">
       <created>1626247892830</created>
@@ -89,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626247892830</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new committhree">
+      <created>1626248047855</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1626248047855</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +120,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new commit" />
     <MESSAGE value="new committwo" />
-    <option name="LAST_COMMIT_MESSAGE" value="new committwo" />
+    <MESSAGE value="new committhree" />
+    <option name="LAST_COMMIT_MESSAGE" value="new committhree" />
   </component>
 </project>
