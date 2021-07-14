@@ -9,6 +9,8 @@
 </head>
 <body>
 <script>
+    /*Створити змінні. Присвоїти кожному з них значення: 'hello','owu','com', 'ua', 1, 10, -999, 123, 3.14, 2.7, 16, true, false.
+    Вивести кожну змінну за допомогою: console.log , alert, document.write*/
     let msg;
      msg = 'hello';
     let msq;
@@ -28,7 +30,53 @@
     let msa = true
     let mss = false
      document.write('<h1 class="target">' + msg + '</h1>');
-     document.write(`<h1 class="target">${msq}</h1>`);
+     document.write(`<h2 class="target">${msq}</h2>`);
+     document.write(`<h2 class="target">${msw}</h2>`);
+     document.write(`<h2 class="target">${mse}</h2>`);
+     document.write(`<h2 class="target">${msr}</h2>`);
+     console.log(mst,msy,msu,msi,mso,msp)
+     console.log(msa,mss)
+    /*Переприсвоїти кожну змінну з завдання вище на будь які довільні значення.
+  Вивести кожну змінну за допомогою: console.log , alert, document.write*/
+    msg = 'helloOkten';
+    msq = 'owuCom';
+    msw = 'comUa';
+    mse = 'uaCom';
+    msr = '1.3'
+    mst = 11
+    msy = -888
+    msu = 321
+    msi = 6.6
+    mso = 7.2
+    msp = 61
+    msa = false
+    mss = true
+    document.write(`<h2 class="target">${msg} ${msq} ${msw} ${mse} ${msr}</h2>`);
+    console.log(mst,msy,msu,msi,mso,msp)
+    //Створити 3 змінних firstName, middleName, lastName, наповнити їх своїм ПІБ. Зконкатенувати їх в одну змінну person.//
+    let firstName = 'Valchuk';
+    let middleName = 'Serhii';
+    let lastName = 'Oleksandrowych';
+    let person;
+    person = 'Valchuk' +' '+ 'Serhii' +' '+ 'Oleksandrowych';
+    document.write(`<h2 class="target">${person}</h2>`);
+    console.log(person)
+    /*За допомогою 3х різних prompt() отримати 3 слова які являються вашими Імям, По-Батькові та роками.
+    Вивести "Вітаю *Імя* *По батькові*. Тобі *вік* років".*/
+    let name = 'Serhii'
+    let lastName2 = 'Oleksandrowych'
+    let age = '28'
+    document.write(
+        `Вітаю ${name} ${lastName2}. Тобі ${age} років`
+    );
+    /*За допомогою оператора typeof визначити типи наступних змінних та вивести їх в консоль.
+    let a = 100; let b = '100'; let c = true;*/
+    let a = 100;
+    let b = '100';
+    let c = true;
+
+
+
 
 
 </script>
