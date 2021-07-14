@@ -1,0 +1,75 @@
+
+.main {
+    background: whitesmoke;
+    width: 350px;
+    height: 500px;
+}
+.main2 {
+    background: whitesmoke;
+    height: 50%;
+}
+.mainin1 {
+    background: whitesmoke;
+    height: 100%;
+    width: 35%;
+}
+.mainin1_1 {
+    background: silver;
+    height: 30%;
+}
+.mainin1_2 {
+    background: darkolivegreen;
+    height: 70%;
+}
+.mainin2 {
+    background: whitesmoke;
+    height: 100%;
+    width: 65%;
+    margin-left: 2px;
+}
+.mainin2_1 {
+    background: darkgoldenrod;
+    height: 80%;
+}
+.mainin2_2 {
+    background: #555050;
+    height: 20%;
+}
+.qqq {
+    background: #28edff;
+}
+
+.marg {
+    margin-top: 2px;
+}
+.weig {
+    width: 100%;
+}
+.disp {
+    display: flex;
+}
+.text {
+    text-align: center;
+}
+.heid {
+    height: 15%;
+}
+.qqq1 {
+    background: whitesmoke;
+    height: 20%;
+    margin-top: 4px;
+}
+.qqqq {
+    background: green;
+    height: 100%;
+    width: 70%;
+}
+.qqqq2 {
+    background: burlywood;
+    height: 100%;
+    width: 30%;
+    margin-left: 2px;
+}
+.qqq3 {
+    background: darkorange ;
+}

@@ -1,0 +1,51 @@
+.sss {
+    background: whitesmoke;
+    width: 500px;
+    height: 400px;
+    padding: 5px;
+    border: 1px double darkolivegreen;
+    border-radius: 10px;
+}
+.rad {
+    border-radius: 7px;
+}
+.widh {
+    width:100%;
+}
+.qqq {
+    background: blue;
+    height: 16%;
+    text-align: center;
+}
+.rrr {
+    background: #040357;
+    height: 12%;
+    text-align: center;
+}
+.eee {
+    background: whitesmoke;
+    width: 500px;
+    height: 60%;
+    display: flex;
+}
+.www1 {
+    background: #19ea84;
+    width: 75%;
+    height: 100%;
+    text-align: center;
+}
+.www2 {
+    background: #19c998;
+    width: 25%;
+    height: 100%;
+    text-align: center;
+    margin-left: 2px;
+}
+.rrr1 {
+    background: rgba(36, 239, 189, 0.73);
+    height: 12%;
+    text-align: center;
+}
+.marg {
+    margin-top: 1px;
+}
