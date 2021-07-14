@@ -20,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/.." value="js" />
+        <entry key="$PROJECT_DIR$/.." value="promt" />
         <entry key="$PROJECT_DIR$/JS" value="master" />
       </map>
     </option>
@@ -84,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626247328564</updated>
-      <workItem from="1626247333149" duration="11181000" />
+      <workItem from="1626247333149" duration="12288000" />
     </task>
     <task id="LOCAL-00003" summary="new committwo">
       <created>1626247892830</created>
@@ -121,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626264463902</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="homework prompt">
+      <created>1626268991143</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1626268991143</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
